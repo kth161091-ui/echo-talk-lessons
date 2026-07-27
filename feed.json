@@ -1,4 +1,13 @@
 {
   "updated": "2026-07-27",
-  "lessons": []
+  "lessons": [
+    {
+      "id": "voa_wright_brothers",
+      "title": "Wilbur and Orville Wright: The First Airplane",
+      "titleKo": "라이트 형제와 최초의 비행기",
+      "date": "2026-07-27",
+      "language": "en",
+      "jsonUrl": "https://raw.githubusercontent.com/kth161091-ui/echo-talk-lessons/master/lessons/voa_wright_brothers.json"
+    }
+  ]
 }
