@@ -1,0 +1,437 @@
+{
+  "id": "voa_lle_lets_learn_english_lesson_2_hello",
+  "title": "Lesson 2: Hello, I'm Anna!",
+  "titleKo": "VOA 영어 회화",
+  "source": "VOA Learning English (미국 정부 제작물 - 퍼블릭 도메인). 원문: https://learningenglish.voanews.com/a/lets-learn-english-lesson-2-hello/3113733.html",
+  "audioType": "video",
+  "audioUrl": "https://voa-video-ns.akamaized.net/pangeavideo/2021/02/4/42/4298a2ba-d665-4b1c-aaa1-502bbcb9b88d_480p.mp4",
+  "language": "en",
+  "translationLanguage": "ko",
+  "sentences": [
+    {
+      "text": "Hey Pete, who's your friend?",
+      "startMs": 23950,
+      "endMs": 25950
+    },
+    {
+      "text": "She is Anna.",
+      "startMs": 26550,
+      "endMs": 27290
+    },
+    {
+      "text": "She is new to DC.",
+      "startMs": 27730,
+      "endMs": 28570
+    },
+    {
+      "text": "Where are you from?",
+      "startMs": 29230,
+      "endMs": 29970
+    },
+    {
+      "text": "I am from a small town.",
+      "startMs": 30330,
+      "endMs": 32190
+    },
+    {
+      "text": "Now it's your turn.",
+      "startMs": 35140,
+      "endMs": 36440
+    },
+    {
+      "text": "Listen.",
+      "startMs": 37320,
+      "endMs": 37660
+    },
+    {
+      "text": "Where are you from?",
+      "startMs": 39400,
+      "endMs": 40420
+    },
+    {
+      "text": "I am from a big city.",
+      "startMs": 42060,
+      "endMs": 43760
+    },
+    {
+      "text": "Speak and say your city.",
+      "startMs": 45580,
+      "endMs": 47700
+    },
+    {
+      "text": "Welcome to DC.",
+      "startMs": 56620,
+      "endMs": 57600
+    },
+    {
+      "text": "Thank you.",
+      "startMs": 58020,
+      "endMs": 58580
+    },
+    {
+      "text": "I'm Jonathan.",
+      "startMs": 58920,
+      "endMs": 59500
+    },
+    {
+      "text": "I'm in apartment B4.",
+      "startMs": 60160,
+      "endMs": 61700
+    },
+    {
+      "text": "I am in apartment C2.",
+      "startMs": 62240,
+      "endMs": 64340
+    },
+    {
+      "text": "Marcia is my roommate.",
+      "startMs": 64340,
+      "endMs": 66400
+    },
+    {
+      "text": "I know Marcia.",
+      "startMs": 66900,
+      "endMs": 68300
+    },
+    {
+      "text": "She is nice.",
+      "startMs": 68920,
+      "endMs": 69720
+    },
+    {
+      "text": "And I am in apartment D7.",
+      "startMs": 70790,
+      "endMs": 73430
+    },
+    {
+      "text": "Now it's your turn.",
+      "startMs": 74890,
+      "endMs": 75910
+    },
+    {
+      "text": "Listen.",
+      "startMs": 76820,
+      "endMs": 77100
+    },
+    {
+      "text": "Welcome to DC.",
+      "startMs": 78510,
+      "endMs": 79690
+    },
+    {
+      "text": "Speak and say your city.",
+      "startMs": 81400,
+      "endMs": 83520
+    },
+    {
+      "text": "Listen.",
+      "startMs": 88200,
+      "endMs": 88620
+    },
+    {
+      "text": "Thank you.",
+      "startMs": 90010,
+      "endMs": 90650
+    },
+    {
+      "text": "Speak.",
+      "startMs": 93540,
+      "endMs": 93940
+    },
+    {
+      "text": "I have to go now.",
+      "startMs": 98690,
+      "endMs": 99730
+    },
+    {
+      "text": "Oh.",
+      "startMs": 100530,
+      "endMs": 100810
+    },
+    {
+      "text": "Remember to call Marcia at work.",
+      "startMs": 101670,
+      "endMs": 103310
+    },
+    {
+      "text": "Tell her you're here.",
+      "startMs": 103830,
+      "endMs": 104730
+    },
+    {
+      "text": "Right.",
+      "startMs": 104970,
+      "endMs": 105270
+    },
+    {
+      "text": "Thanks Pete.",
+      "startMs": 105590,
+      "endMs": 106270
+    },
+    {
+      "text": "Nice to meet you.",
+      "startMs": 106910,
+      "endMs": 107910
+    },
+    {
+      "text": "You too.",
+      "startMs": 108010,
+      "endMs": 108470
+    },
+    {
+      "text": "Bye.",
+      "startMs": 108930,
+      "endMs": 109170
+    },
+    {
+      "text": "Now it's your turn.",
+      "startMs": 111000,
+      "endMs": 112140
+    },
+    {
+      "text": "Listen.",
+      "startMs": 113470,
+      "endMs": 113770
+    },
+    {
+      "text": "I have to go now.",
+      "startMs": 115220,
+      "endMs": 116160
+    },
+    {
+      "text": "Speak.",
+      "startMs": 117820,
+      "endMs": 118200
+    },
+    {
+      "text": "Listen.",
+      "startMs": 125020,
+      "endMs": 125340
+    },
+    {
+      "text": "Nice to meet you.",
+      "startMs": 127090,
+      "endMs": 128090
+    },
+    {
+      "text": "Speak.",
+      "startMs": 129160,
+      "endMs": 129480
+    },
+    {
+      "text": "Apartment C2.",
+      "startMs": 138860,
+      "endMs": 139980
+    },
+    {
+      "text": "Here I come.",
+      "startMs": 140600,
+      "endMs": 141220
+    },
+    {
+      "text": "Hey Pete.",
+      "startMs": 170370,
+      "endMs": 170750
+    },
+    {
+      "text": "Who's your friend?",
+      "startMs": 171510,
+      "endMs": 172210
+    },
+    {
+      "text": "She is Anna.",
+      "startMs": 172910,
+      "endMs": 173610
+    },
+    {
+      "text": "She is new to DC.",
+      "startMs": 173970,
+      "endMs": 174890
+    },
+    {
+      "text": "Where are you from?",
+      "startMs": 175750,
+      "endMs": 176570
+    },
+    {
+      "text": "I am from a small town.",
+      "startMs": 176910,
+      "endMs": 178630
+    },
+    {
+      "text": "Welcome to DC.",
+      "startMs": 179780,
+      "endMs": 180680
+    },
+    {
+      "text": "Thank you.",
+      "startMs": 181100,
+      "endMs": 181680
+    },
+    {
+      "text": "I'm Jonathan.",
+      "startMs": 181680,
+      "endMs": 182640
+    },
+    {
+      "text": "I'm in apartment B4.",
+      "startMs": 183240,
+      "endMs": 184820
+    },
+    {
+      "text": "I am in apartment C2.",
+      "startMs": 185380,
+      "endMs": 187400
+    },
+    {
+      "text": "Marcia is my roommate.",
+      "startMs": 187940,
+      "endMs": 189460
+    },
+    {
+      "text": "I know Marcia.",
+      "startMs": 190350,
+      "endMs": 191370
+    },
+    {
+      "text": "She is nice.",
+      "startMs": 192110,
+      "endMs": 192810
+    },
+    {
+      "text": "And I am in apartment D7.",
+      "startMs": 193910,
+      "endMs": 196490
+    },
+    {
+      "text": "I have to go now.",
+      "startMs": 197470,
+      "endMs": 198610
+    },
+    {
+      "text": "Oh.",
+      "startMs": 199410,
+      "endMs": 199670
+    },
+    {
+      "text": "Remember to call Marcia at work.",
+      "startMs": 200510,
+      "endMs": 202170
+    },
+    {
+      "text": "Tell her you're here.",
+      "startMs": 202710,
+      "endMs": 203590
+    },
+    {
+      "text": "Right.",
+      "startMs": 203850,
+      "endMs": 204130
+    },
+    {
+      "text": "Thanks Pete.",
+      "startMs": 204510,
+      "endMs": 205150
+    },
+    {
+      "text": "Nice to meet you.",
+      "startMs": 205550,
+      "endMs": 206770
+    },
+    {
+      "text": "You too.",
+      "startMs": 206910,
+      "endMs": 207310
+    },
+    {
+      "text": "Bye.",
+      "startMs": 207830,
+      "endMs": 208030
+    },
+    {
+      "text": "Apartment C2.",
+      "startMs": 210900,
+      "endMs": 212180
+    },
+    {
+      "text": "Here I come.",
+      "startMs": 212620,
+      "endMs": 213360
+    },
+    {
+      "text": "No.",
+      "startMs": 239480,
+      "endMs": 239760
+    },
+    {
+      "text": "No.",
+      "startMs": 241220,
+      "endMs": 241880
+    },
+    {
+      "text": "No.",
+      "startMs": 243360,
+      "endMs": 243820
+    },
+    {
+      "text": "To have met and talked to someone.",
+      "startMs": 244680,
+      "endMs": 246900
+    },
+    {
+      "text": "Remember.",
+      "startMs": 249380,
+      "endMs": 249920
+    },
+    {
+      "text": "Remember.",
+      "startMs": 251340,
+      "endMs": 251800
+    },
+    {
+      "text": "Remember.",
+      "startMs": 253160,
+      "endMs": 253580
+    },
+    {
+      "text": "To have or keep an image or idea in your mind of something or someone from the past.",
+      "startMs": 254650,
+      "endMs": 261390
+    },
+    {
+      "text": "Roommate.",
+      "startMs": 264800,
+      "endMs": 265280
+    },
+    {
+      "text": "Roommate.",
+      "startMs": 266640,
+      "endMs": 267160
+    },
+    {
+      "text": "Roommate.",
+      "startMs": 267980,
+      "endMs": 268540
+    },
+    {
+      "text": "A person who shares a room, apartment, or house with someone else.",
+      "startMs": 269320,
+      "endMs": 274840
+    },
+    {
+      "text": "Work.",
+      "startMs": 280200,
+      "endMs": 280500
+    },
+    {
+      "text": "Work.",
+      "startMs": 280950,
+      "endMs": 281970
+    },
+    {
+      "text": "The place where you do your job.",
+      "startMs": 282700,
+      "endMs": 284820
+    }
+  ]
+}

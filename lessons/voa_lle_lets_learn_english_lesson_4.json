@@ -1,0 +1,352 @@
+{
+  "id": "voa_lle_lets_learn_english_lesson_4",
+  "title": "Lesson 4: What Is It?",
+  "titleKo": "VOA 영어 회화",
+  "source": "VOA Learning English (미국 정부 제작물 - 퍼블릭 도메인). 원문: https://learningenglish.voanews.com/a/lets-learn-english-lesson-4/3168920.html",
+  "audioType": "video",
+  "audioUrl": "https://voa-video-ns.akamaized.net/pangeavideo/2016/05/c/c8/c829a13b-9764-4b89-ad70-1edbdc3d8013_hq.mp4",
+  "language": "en",
+  "translationLanguage": "ko",
+  "sentences": [
+    {
+      "text": "Hi, we are here.",
+      "startMs": 15570,
+      "endMs": 16870
+    },
+    {
+      "text": "Hi Anna, hi Marcia.",
+      "startMs": 17430,
+      "endMs": 18690
+    },
+    {
+      "text": "Hi.",
+      "startMs": 19130,
+      "endMs": 19450
+    },
+    {
+      "text": "How are you two?",
+      "startMs": 20360,
+      "endMs": 21420
+    },
+    {
+      "text": "I am great.",
+      "startMs": 21840,
+      "endMs": 22600
+    },
+    {
+      "text": "You know Pete, I am new to DC.",
+      "startMs": 23400,
+      "endMs": 25060
+    },
+    {
+      "text": "The city is big.",
+      "startMs": 25660,
+      "endMs": 28060
+    },
+    {
+      "text": "Yeah, but you learn a little more every day.",
+      "startMs": 29010,
+      "endMs": 32150
+    },
+    {
+      "text": "How's the new apartment?",
+      "startMs": 32930,
+      "endMs": 33930
+    },
+    {
+      "text": "The new apartment is great.",
+      "startMs": 34330,
+      "endMs": 35890
+    },
+    {
+      "text": "Let's get coffee.",
+      "startMs": 36630,
+      "endMs": 37690
+    },
+    {
+      "text": "Anna, do you have a pen?",
+      "startMs": 38490,
+      "endMs": 40870
+    },
+    {
+      "text": "Yes, I have a pen in my bag.",
+      "startMs": 41830,
+      "endMs": 44070
+    },
+    {
+      "text": "I have a...",
+      "startMs": 44230,
+      "endMs": 46230
+    },
+    {
+      "text": "It is not a pen.",
+      "startMs": 52390,
+      "endMs": 54410
+    },
+    {
+      "text": "It is a book.",
+      "startMs": 55040,
+      "endMs": 56000
+    },
+    {
+      "text": "It is a big book.",
+      "startMs": 57090,
+      "endMs": 59010
+    },
+    {
+      "text": "Yes, yes it is, Pete.",
+      "startMs": 59470,
+      "endMs": 60950
+    },
+    {
+      "text": "I know I have a pen though.",
+      "startMs": 61530,
+      "endMs": 63030
+    },
+    {
+      "text": "I have a...",
+      "startMs": 67130,
+      "endMs": 68510
+    },
+    {
+      "text": "It is not a pen, Anna.",
+      "startMs": 77530,
+      "endMs": 79890
+    },
+    {
+      "text": "A toy?",
+      "startMs": 80850,
+      "endMs": 81790
+    },
+    {
+      "text": "I have a...",
+      "startMs": 82010,
+      "endMs": 84310
+    },
+    {
+      "text": "And it is a pillow.",
+      "startMs": 85690,
+      "endMs": 88070
+    },
+    {
+      "text": "Do you have a pen?",
+      "startMs": 91170,
+      "endMs": 92250
+    },
+    {
+      "text": "Yes, I have a pen.",
+      "startMs": 93030,
+      "endMs": 94310
+    },
+    {
+      "text": "Now you try it.",
+      "startMs": 94310,
+      "endMs": 96390
+    },
+    {
+      "text": "Pete, Marcia, I know I have a pen.",
+      "startMs": 110020,
+      "endMs": 112960
+    },
+    {
+      "text": "Anna, it is a map.",
+      "startMs": 116440,
+      "endMs": 120340
+    },
+    {
+      "text": "Why do you have a map of the world?",
+      "startMs": 122560,
+      "endMs": 125600
+    },
+    {
+      "text": "Pete, Marcia, now I know I have a pen.",
+      "startMs": 126100,
+      "endMs": 130880
+    },
+    {
+      "text": "Pen, now you have a lamp.",
+      "startMs": 135450,
+      "endMs": 138760
+    },
+    {
+      "text": "It is not a pen.",
+      "startMs": 146110,
+      "endMs": 147090
+    },
+    {
+      "text": "It is a map.",
+      "startMs": 148360,
+      "endMs": 149320
+    },
+    {
+      "text": "Now you try it.",
+      "startMs": 151580,
+      "endMs": 152500
+    },
+    {
+      "text": "Anna, I have a pen.",
+      "startMs": 162620,
+      "endMs": 166840
+    },
+    {
+      "text": "Let's get coffee.",
+      "startMs": 167300,
+      "endMs": 168380
+    },
+    {
+      "text": "Hi, hi, we are here.",
+      "startMs": 183240,
+      "endMs": 185080
+    },
+    {
+      "text": "Hi Anna, hi Marcia.",
+      "startMs": 185560,
+      "endMs": 186880
+    },
+    {
+      "text": "Hi.",
+      "startMs": 187400,
+      "endMs": 187640
+    },
+    {
+      "text": "How are you two?",
+      "startMs": 188530,
+      "endMs": 189630
+    },
+    {
+      "text": "I am great.",
+      "startMs": 190050,
+      "endMs": 190810
+    },
+    {
+      "text": "You know, Pete, I am new to DC.",
+      "startMs": 191650,
+      "endMs": 193250
+    },
+    {
+      "text": "The city is big.",
+      "startMs": 193870,
+      "endMs": 196250
+    },
+    {
+      "text": "Yeah, but you learn a little more every day.",
+      "startMs": 197340,
+      "endMs": 200360
+    },
+    {
+      "text": "How's the new apartment?",
+      "startMs": 201120,
+      "endMs": 202120
+    },
+    {
+      "text": "The new apartment is great.",
+      "startMs": 202560,
+      "endMs": 204060
+    },
+    {
+      "text": "Let's get coffee.",
+      "startMs": 204780,
+      "endMs": 205900
+    },
+    {
+      "text": "Anna, do you have a pen?",
+      "startMs": 206560,
+      "endMs": 209100
+    },
+    {
+      "text": "Yes, I have a pen in my bag.",
+      "startMs": 210100,
+      "endMs": 212280
+    },
+    {
+      "text": "I have a...",
+      "startMs": 213220,
+      "endMs": 215180
+    },
+    {
+      "text": "It is not a pen.",
+      "startMs": 220560,
+      "endMs": 222620
+    },
+    {
+      "text": "It is a book.",
+      "startMs": 223290,
+      "endMs": 224190
+    },
+    {
+      "text": "It is a big book.",
+      "startMs": 225500,
+      "endMs": 227160
+    },
+    {
+      "text": "Yes, yes it is, Pete.",
+      "startMs": 227640,
+      "endMs": 229160
+    },
+    {
+      "text": "I know I have a pen though.",
+      "startMs": 229720,
+      "endMs": 231220
+    },
+    {
+      "text": "I have a...",
+      "startMs": 235080,
+      "endMs": 237400
+    },
+    {
+      "text": "It is not a pen, Anna.",
+      "startMs": 245880,
+      "endMs": 248180
+    },
+    {
+      "text": "A toy?",
+      "startMs": 249060,
+      "endMs": 250020
+    },
+    {
+      "text": "I have a...",
+      "startMs": 250480,
+      "endMs": 252680
+    },
+    {
+      "text": "And it is a pillow.",
+      "startMs": 254760,
+      "endMs": 257220
+    },
+    {
+      "text": "Pete, Marcia, I know I have a pen.",
+      "startMs": 259940,
+      "endMs": 263020
+    },
+    {
+      "text": "Anna, it is a map.",
+      "startMs": 266290,
+      "endMs": 270400
+    },
+    {
+      "text": "Why do you have a map of the world?",
+      "startMs": 272620,
+      "endMs": 275660
+    },
+    {
+      "text": "Pete, Marcia, now I know I have a pen.",
+      "startMs": 276100,
+      "endMs": 280980
+    },
+    {
+      "text": "And now you have a lamp.",
+      "startMs": 284980,
+      "endMs": 288850
+    },
+    {
+      "text": "Anna, Anna, I have a pen.",
+      "startMs": 289250,
+      "endMs": 292730
+    },
+    {
+      "text": "Let's get coffee.",
+      "startMs": 293290,
+      "endMs": 294290
+    }
+  ]
+}

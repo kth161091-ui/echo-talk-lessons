@@ -1,12 +1,94 @@
 {
-  "updated": "2026-07-27",
+  "updated": "2026-07-28",
   "lessons": [
+    {
+      "id": "voa_lle_lets_learn_english_lesson_8_are_you_busy",
+      "title": "Lesson 8: Are You Busy?",
+      "titleKo": "VOA 영어 회화",
+      "date": "2026-07-28",
+      "language": "en",
+      "kind": "video",
+      "sentenceCount": 39,
+      "jsonUrl": "https://raw.githubusercontent.com/kth161091-ui/echo-talk-lessons/master/lessons/voa_lle_lets_learn_english_lesson_8_are_you_busy.json"
+    },
+    {
+      "id": "voa_lle_lets_learn_english_lesson_7_what_are_you_doing",
+      "title": "Lesson 7: What Are You Doing?",
+      "titleKo": "VOA 영어 회화",
+      "date": "2026-07-28",
+      "language": "en",
+      "kind": "video",
+      "sentenceCount": 89,
+      "jsonUrl": "https://raw.githubusercontent.com/kth161091-ui/echo-talk-lessons/master/lessons/voa_lle_lets_learn_english_lesson_7_what_are_you_doing.json"
+    },
+    {
+      "id": "voa_lle_lets_learn_english_lesson_6_where_is_the_gym",
+      "title": "Lesson 6: Where Is the Gym?",
+      "titleKo": "VOA 영어 회화",
+      "date": "2026-07-28",
+      "language": "en",
+      "kind": "video",
+      "sentenceCount": 60,
+      "jsonUrl": "https://raw.githubusercontent.com/kth161091-ui/echo-talk-lessons/master/lessons/voa_lle_lets_learn_english_lesson_6_where_is_the_gym.json"
+    },
+    {
+      "id": "voa_lle_lets_learn_english_lesson_5_where_are_you",
+      "title": "Lesson 5: Where Are You?",
+      "titleKo": "VOA 영어 회화",
+      "date": "2026-07-28",
+      "language": "en",
+      "kind": "video",
+      "sentenceCount": 31,
+      "jsonUrl": "https://raw.githubusercontent.com/kth161091-ui/echo-talk-lessons/master/lessons/voa_lle_lets_learn_english_lesson_5_where_are_you.json"
+    },
+    {
+      "id": "voa_lle_lets_learn_english_lesson_4",
+      "title": "Lesson 4: What Is It?",
+      "titleKo": "VOA 영어 회화",
+      "date": "2026-07-28",
+      "language": "en",
+      "kind": "video",
+      "sentenceCount": 68,
+      "jsonUrl": "https://raw.githubusercontent.com/kth161091-ui/echo-talk-lessons/master/lessons/voa_lle_lets_learn_english_lesson_4.json"
+    },
+    {
+      "id": "voa_lle_lets_learn_english_lesson_3_i_am_here",
+      "title": "Lesson 3: I'm Here!",
+      "titleKo": "VOA 영어 회화",
+      "date": "2026-07-28",
+      "language": "en",
+      "kind": "video",
+      "sentenceCount": 90,
+      "jsonUrl": "https://raw.githubusercontent.com/kth161091-ui/echo-talk-lessons/master/lessons/voa_lle_lets_learn_english_lesson_3_i_am_here.json"
+    },
+    {
+      "id": "voa_lle_lets_learn_english_lesson_2_hello",
+      "title": "Lesson 2: Hello, I'm Anna!",
+      "titleKo": "VOA 영어 회화",
+      "date": "2026-07-28",
+      "language": "en",
+      "kind": "video",
+      "sentenceCount": 85,
+      "jsonUrl": "https://raw.githubusercontent.com/kth161091-ui/echo-talk-lessons/master/lessons/voa_lle_lets_learn_english_lesson_2_hello.json"
+    },
+    {
+      "id": "voa_lle_lets_learn_english_lesson_one",
+      "title": "Lesson 1: Welcome!",
+      "titleKo": "VOA 영어 회화",
+      "date": "2026-07-28",
+      "language": "en",
+      "kind": "video",
+      "sentenceCount": 70,
+      "jsonUrl": "https://raw.githubusercontent.com/kth161091-ui/echo-talk-lessons/master/lessons/voa_lle_lets_learn_english_lesson_one.json"
+    },
     {
       "id": "voa_wright_brothers",
       "title": "Wilbur and Orville Wright: The First Airplane",
       "titleKo": "라이트 형제와 최초의 비행기",
       "date": "2026-07-27",
       "language": "en",
+      "kind": "audio",
+      "sentenceCount": 39,
       "jsonUrl": "https://raw.githubusercontent.com/kth161091-ui/echo-talk-lessons/master/lessons/voa_wright_brothers.json"
     }
   ]
