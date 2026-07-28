@@ -8,7 +8,7 @@
       "date": "2026-07-28",
       "language": "en",
       "kind": "video",
-      "sentenceCount": 39,
+      "sentenceCount": 41,
       "jsonUrl": "https://raw.githubusercontent.com/kth161091-ui/echo-talk-lessons/master/lessons/voa_lle_lets_learn_english_lesson_8_are_you_busy.json"
     },
     {
@@ -38,7 +38,7 @@
       "date": "2026-07-28",
       "language": "en",
       "kind": "video",
-      "sentenceCount": 31,
+      "sentenceCount": 32,
       "jsonUrl": "https://raw.githubusercontent.com/kth161091-ui/echo-talk-lessons/master/lessons/voa_lle_lets_learn_english_lesson_5_where_are_you.json"
     },
     {
@@ -80,6 +80,66 @@
       "kind": "video",
       "sentenceCount": 70,
       "jsonUrl": "https://raw.githubusercontent.com/kth161091-ui/echo-talk-lessons/master/lessons/voa_lle_lets_learn_english_lesson_one.json"
+    },
+    {
+      "id": "voa_lle_let_s_learn_english_level_2_lesson_6_will_it_float",
+      "title": "Let’s Learn English - Level 2 - Lesson 6: Will It Float?",
+      "titleKo": "VOA 중급 회화",
+      "date": "2026-07-28",
+      "language": "en",
+      "kind": "video",
+      "sentenceCount": 74,
+      "jsonUrl": "https://raw.githubusercontent.com/kth161091-ui/echo-talk-lessons/master/lessons/voa_lle_let_s_learn_english_level_2_lesson_6_will_it_float.json"
+    },
+    {
+      "id": "voa_lle_let_s_learn_english_level_2_lesson_5_greatest_vacati",
+      "title": "Let’s Learn English - Level 2 - Lesson 5: Greatest Vacation of All Time",
+      "titleKo": "VOA 중급 회화",
+      "date": "2026-07-28",
+      "language": "en",
+      "kind": "video",
+      "sentenceCount": 41,
+      "jsonUrl": "https://raw.githubusercontent.com/kth161091-ui/echo-talk-lessons/master/lessons/voa_lle_let_s_learn_english_level_2_lesson_5_greatest_vacati.json"
+    },
+    {
+      "id": "voa_lle_let_s_learn_english_level_2_lesson_4_run_away_with_t",
+      "title": "Let’s Learn English - Level 2 - Lesson 4: Run Away With the Circus!",
+      "titleKo": "VOA 중급 회화",
+      "date": "2026-07-28",
+      "language": "en",
+      "kind": "video",
+      "sentenceCount": 97,
+      "jsonUrl": "https://raw.githubusercontent.com/kth161091-ui/echo-talk-lessons/master/lessons/voa_lle_let_s_learn_english_level_2_lesson_4_run_away_with_t.json"
+    },
+    {
+      "id": "voa_lle_let_s_learn_english_level_2_lesson_3_he_said_she_sai",
+      "title": "Let’s Learn English - Level 2 - Lesson 3: He Said - She Said",
+      "titleKo": "VOA 중급 회화",
+      "date": "2026-07-28",
+      "language": "en",
+      "kind": "video",
+      "sentenceCount": 94,
+      "jsonUrl": "https://raw.githubusercontent.com/kth161091-ui/echo-talk-lessons/master/lessons/voa_lle_let_s_learn_english_level_2_lesson_3_he_said_she_sai.json"
+    },
+    {
+      "id": "voa_lle_let_s_learn_english_level_2_lesson_2_the_interview",
+      "title": "Let’s Learn English - Level 2 - Lesson 2: The Interview",
+      "titleKo": "VOA 중급 회화",
+      "date": "2026-07-28",
+      "language": "en",
+      "kind": "video",
+      "sentenceCount": 69,
+      "jsonUrl": "https://raw.githubusercontent.com/kth161091-ui/echo-talk-lessons/master/lessons/voa_lle_let_s_learn_english_level_2_lesson_2_the_interview.json"
+    },
+    {
+      "id": "voa_lle_let_s_learn_english_level_2_lesson_1_budget_cuts",
+      "title": "Let’s Learn English - Level 2 -  Lesson 1: Budget Cuts",
+      "titleKo": "VOA 중급 회화",
+      "date": "2026-07-28",
+      "language": "en",
+      "kind": "video",
+      "sentenceCount": 88,
+      "jsonUrl": "https://raw.githubusercontent.com/kth161091-ui/echo-talk-lessons/master/lessons/voa_lle_let_s_learn_english_level_2_lesson_1_budget_cuts.json"
     },
     {
       "id": "voa_wright_brothers",
