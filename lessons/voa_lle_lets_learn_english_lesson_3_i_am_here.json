@@ -1,10 +1,11 @@
 {
   "id": "voa_lle_lets_learn_english_lesson_3_i_am_here",
   "title": "Lesson 3: I'm Here!",
-  "titleKo": "VOA 영어 회화",
+  "titleKo": "VOA 초급 회화",
   "source": "VOA Learning English (미국 정부 제작물 - 퍼블릭 도메인). 원문: https://learningenglish.voanews.com/a/lets-learn-english-lesson-3-i-am-here/3126527.html",
   "audioType": "video",
   "audioUrl": "https://voa-video-ns.akamaized.net/pangeavideo/2016/05/0/02/027f8fdd-e9b0-409c-8618-45be49fcefe8_hq.mp4",
+  "thumbnailUrl": "https://gdb.voanews.com/027f8fdd-e9b0-409c-8618-45be49fcefe8_tv_w250_r1.jpg",
   "language": "en",
   "translationLanguage": "ko",
   "sentences": [

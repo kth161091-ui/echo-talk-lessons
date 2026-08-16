@@ -1,10 +1,11 @@
 {
   "id": "voa_lle_lets_learn_english_lesson_one",
   "title": "Lesson 1: Welcome!",
-  "titleKo": "VOA 영어 회화",
+  "titleKo": "VOA 초급 회화",
   "source": "VOA Learning English (미국 정부 제작물 - 퍼블릭 도메인). 원문: https://learningenglish.voanews.com/a/lets-learn-english-lesson-one/3111026.html",
   "audioType": "video",
   "audioUrl": "https://voa-video-ns.akamaized.net/pangeavideo/2021/02/5/5f/5f00c78a-0f84-41e6-949d-bd808bcadf50_480p.mp4",
+  "thumbnailUrl": "https://gdb.voanews.com/5f00c78a-0f84-41e6-949d-bd808bcadf50_tv_w250_r1.jpg",
   "language": "en",
   "translationLanguage": "ko",
   "sentences": [

@@ -1,0 +1,53 @@
+{
+  "id": "voa_8007357",
+  "title": "News Words: Illusion",
+  "titleKo": "뉴스 어휘",
+  "source": "VOA Learning English (미국 정부 제작물 - 퍼블릭 도메인). 원문: https://learningenglish.voanews.com/a/8007357.html",
+  "audioType": "video",
+  "audioUrl": "https://voa-video-ns.akamaized.net/pangeavideo/2025/03/f/fb/fb6c4941-8db1-474d-06a5-08dd5c8b1668_480p.mp4",
+  "thumbnailUrl": "https://gdb.voanews.com/fb6c4941-8db1-474d-06a5-08dd5c8b1668_tv_w1080_h608.jpg",
+  "language": "en",
+  "translationLanguage": "ko",
+  "sentences": [
+    {
+      "text": "Welcome to the Voice of America's Newswords.",
+      "startMs": 1100,
+      "endMs": 5160
+    },
+    {
+      "text": "A museum in Miami, Florida specializes in works of art that stretch the imagination.",
+      "startMs": 6530,
+      "endMs": 13550
+    },
+    {
+      "text": "Illusion The Miami Paradox Museum is one of several paradox museums across the world.",
+      "startMs": 15250,
+      "endMs": 24840
+    },
+    {
+      "text": "More than 70 of its displays produce optical illusions worthy of a photograph.",
+      "startMs": 25990,
+      "endMs": 32570
+    },
+    {
+      "text": "The museum explains the math and science behind each illusion.",
+      "startMs": 32570,
+      "endMs": 39300
+    },
+    {
+      "text": "An illusion is anything that is false or not real, but that seems to be true or real.",
+      "startMs": 40890,
+      "endMs": 47330
+    },
+    {
+      "text": "An optical illusion tricks your eyes to make you think you see something that is not present or that looks different in",
+      "startMs": 48360,
+      "endMs": 56700
+    },
+    {
+      "text": "reality.",
+      "startMs": 56700,
+      "endMs": 57180
+    }
+  ]
+}

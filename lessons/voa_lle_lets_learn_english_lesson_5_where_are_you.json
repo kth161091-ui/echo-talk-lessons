@@ -1,10 +1,11 @@
 {
   "id": "voa_lle_lets_learn_english_lesson_5_where_are_you",
   "title": "Lesson 5: Where Are You?",
-  "titleKo": "VOA 영어 회화",
+  "titleKo": "VOA 초급 회화",
   "source": "VOA Learning English (미국 정부 제작물 - 퍼블릭 도메인). 원문: https://learningenglish.voanews.com/a/lets-learn-english-lesson-5-where-are-you/3168971.html",
   "audioType": "video",
   "audioUrl": "https://voa-video-ns.akamaized.net/pangeavideo/2016/05/c/ce/ce630bdd-1ffd-4c63-aca7-4bdff50fc7ba_hq.mp4",
+  "thumbnailUrl": "https://gdb.voanews.com/ce630bdd-1ffd-4c63-aca7-4bdff50fc7ba_tv_w250_r1.jpg",
   "language": "en",
   "translationLanguage": "ko",
   "sentences": [

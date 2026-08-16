@@ -1,10 +1,11 @@
 {
   "id": "voa_lle_lets_learn_english_lesson_2_hello",
   "title": "Lesson 2: Hello, I'm Anna!",
-  "titleKo": "VOA 영어 회화",
+  "titleKo": "VOA 초급 회화",
   "source": "VOA Learning English (미국 정부 제작물 - 퍼블릭 도메인). 원문: https://learningenglish.voanews.com/a/lets-learn-english-lesson-2-hello/3113733.html",
   "audioType": "video",
   "audioUrl": "https://voa-video-ns.akamaized.net/pangeavideo/2021/02/4/42/4298a2ba-d665-4b1c-aaa1-502bbcb9b88d_480p.mp4",
+  "thumbnailUrl": "https://gdb.voanews.com/2ba1a3b1-abfc-4d71-b8c6-1295bacfaff0_w250_r1.png",
   "language": "en",
   "translationLanguage": "ko",
   "sentences": [
